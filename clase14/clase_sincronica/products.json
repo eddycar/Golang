@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "producto1",
+        "quantity": 15,
+        "code_value": "pee55",
+        "is_publised": true,
+        "expiration": "15-08-2026",
+        "price": 545.454
+    },
+    {
+        "id": 2,
+        "name": "producto2",
+        "quantity": 15,
+        "code_value": "pee55",
+        "is_publised": true,
+        "expiration": "15-08-2026",
+        "price": 545.454
+    }
+]

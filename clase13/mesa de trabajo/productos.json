@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "producto1",
+        "precio": 52.899,
+        "stock": true,
+        "codigo": "54eeq3",
+        "publicado": false,
+        "FechaDeCreacion": "05-03-2023"
+    },
+    {
+        "id": 2,
+        "nombre": "producto2",
+        "precio": 12.56,
+        "stock": true,
+        "codigo": "jjjsdioju",
+        "publicado": false,
+        "FechaDeCreacion": "05-03-2023"
+    },
+    {
+        "id": 3,
+        "nombre": "producto3",
+        "precio": 12.56,
+        "stock": true,
+        "codigo": "jjjsdioju",
+        "publicado": false,
+        "FechaDeCreacion": "05-03-2023"
+    },
+    {
+        "id": 4,
+        "nombre": "producto4",
+        "precio": 12.56,
+        "stock": true,
+        "codigo": "jjjsdioju",
+        "publicado": false,
+        "FechaDeCreacion": "05-03-2023"
+    },
+    {
+        "id": 5,
+        "nombre": "producto5",
+        "precio": 12.56,
+        "stock": true,
+        "codigo": "jjjsdioju",
+        "publicado": false,
+        "FechaDeCreacion": "05-03-2023"
+    },
+    {
+        "id": 6,
+        "nombre": "producto6",
+        "precio": 12.56,
+        "stock": true,
+        "codigo": "jjjsdioju",
+        "publicado": false,
+        "FechaDeCreacion": "05-03-2023"
+    }
+]
